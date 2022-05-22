@@ -1,1 +1,1 @@
-# latex-authomatic-release
+# latex-automatic-release
